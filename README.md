@@ -120,6 +120,9 @@ Ideally, the Leap Motion could also give few details for a low level
 acces to the device, or maybe a simpler driver than the current SDK.
 An access to the depth map would be nice too, if possible.
 
+I publish these small code snippets under the GPL v3 license, to make
+sure that the community will come with something nicer, hopefully.
+
 Since I will not have lots of time to put on this little project, I
 expect some people in the community to continue it. Here is some
 hints for future works:

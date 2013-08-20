@@ -1,3 +1,6 @@
+-- Author: Elina Lijouvni
+-- License: GPL v3
+
 do
 
    local DEVICE_ADDRESS = os.getenv("LEAP_DEV_ADDR")
